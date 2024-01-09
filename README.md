@@ -18,6 +18,10 @@ Imagine yourself as the applicant for this role and perform the following task
 
 - The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 
+## Ad-Hoc Requests
+![Ad-hoc requests(1 to 5)](https://github.com/data-enthusiast-urvashi/ATLIQ-HARDWARES-CUNSUMER-GOODS-Ad-Hoc-INSIGHTS/blob/main/Ad-hoc%20requests(1%20to%205).png)
+![Ad-hoc requests(6 to 10)](https://github.com/data-enthusiast-urvashi/ATLIQ-HARDWARES-CUNSUMER-GOODS-Ad-Hoc-INSIGHTS/blob/main/Ad-hoc%20requests(6%20to%2010).png)
+
 **************************************************************************************************************************************************
 Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
 
